@@ -12,4 +12,4 @@ You can control the camera using mouse.
 
 ## Youtube video
 
-Check the [video](https://youtu.be/AVzGCSQnE-g) on youtube.
+Check the [video](https://youtu.be/0U3P79HGuvw) on youtube.
