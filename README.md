@@ -1,12 +1,10 @@
-# Metalic-hair
+# Hedgehog
 
-Three.js experiment with custom shader to render metalic hair like.
+Three.js experiment with custom shader to render hedgehog fur like.
 
 ## Description
 
-This project show how to setup an advanced particle system using [three.js](https://threejs.org/).
-
-Press space to make skull jumping.
+This project show how to setup a custom material using [three.js](https://threejs.org/).
 
 You can control the camera using mouse. 
 
